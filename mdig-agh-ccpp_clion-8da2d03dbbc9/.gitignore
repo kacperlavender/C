@@ -1,0 +1,15 @@
+*.zip
+
+# CLion
+.idea
+cmake-build-*
+
+# Eclipse IDE
+.cproject
+.project
+.settings
+
+# Debian
+.directory
+
+/googletest-master/
